@@ -1,0 +1,8 @@
+*{margin: 0;
+padding: 0;
+color: rgb(250, 31, 31);
+}
+body{
+    background-image: url("pexels-cottonbro-6804613.jpg");
+    background-size: cover;
+}
